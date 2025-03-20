@@ -43,6 +43,10 @@ inv_qty_adjust_module/
 ## 🖼️ Screenshots
 ![Module Screenshot](inv_qty_adjust_module/static/description/screenshot.png)
 
+## 🖼️ Video 
+📺 [Watch Video Explanation](https://drive.google.com/file/d/194fr3F8GejebSMPmcBmE6XikkiLZ7m7K/view?usp=sharing)
+
+
 ## 🤝 Contributing
 Feel free to fork the repository and submit pull requests for improvements.
 
