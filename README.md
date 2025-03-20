@@ -41,7 +41,7 @@ inv_qty_adjust_module/
 ```
 
 ## 🖼️ Screenshots
-![Module Screenshot](static/description/icon.png)
+![Module Screenshot](inv_qty_adjust_module/static/description/screenshot.png)
 
 ## 🤝 Contributing
 Feel free to fork the repository and submit pull requests for improvements.
